@@ -6,4 +6,4 @@ I wanted to explore hosting on [heroku](heroku.com) and the [mongolab](https://m
 
 Details of how this was done is explained in blog posts [1](http://pradheepshrinivasan.github.io/python/mongodb/2015/10/10/Deploying_app_to_heroku%20_with_mongodb/) [2](http://pradheepshrinivasan.github.io/python/mongodb/2015/10/14/Deploying_app_to_heroku%20_with_mongodb/)
 
-I have hosted the blog on [heroku](https://infinite-shore-9738.herokuapp.com) and you can signup for your own account [here](https://infinite-shore-9738.herokuapp.com/signup).
+I have hosted the blog on [heroku](https://immense-island-1831.herokuapp.com/) and you can signup for your own account [here](https://immense-island-1831.herokuapp.com/signup).
